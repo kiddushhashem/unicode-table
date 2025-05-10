@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/unicode-table/static/css/main.f656ff17.css",
+    "main.js": "/unicode-table/static/js/main.43001d0f.js",
+    "index.html": "/unicode-table/index.html",
+    "main.f656ff17.css.map": "/unicode-table/static/css/main.f656ff17.css.map",
+    "main.43001d0f.js.map": "/unicode-table/static/js/main.43001d0f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f656ff17.css",
+    "static/js/main.43001d0f.js"
+  ]
+}
